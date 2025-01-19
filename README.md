@@ -6,7 +6,7 @@
 </em></p>
 
 [![Email: sethjpederson@gmail.com](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:sethjpederson@gmail.com)
-[![Linkedin: seth-pederson](https://img.shields.io/badge/-seth--pederson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seth-pederson-237007303/)](https://www.linkedin.com/in/seth-pederson-237007303/)
+[![Discord: snubsteel](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/snubsteel)
 [![GitHub snubsteel](https://img.shields.io/github/followers/snubsteel?label=follow&style=social)](https://github.com/snubsteel)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
