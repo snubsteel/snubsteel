@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="230">
 
-<p><em>Software Engineering Student at <a href="https://twin-cities.umn.edu">University of Minnesota</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+<p><em>Software Engineering Student at <a href="https://crk.umn.edu/academics/software-engineering/online">University of Minnesota</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 </em></p>
 
 [![Email: sethjpederson@gmail.com](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:sethjpederson@gmail.com)
