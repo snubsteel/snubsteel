@@ -1,4 +1,4 @@
-<h2> Hi, I'm Seth Pederson! <img src="https://files.oaiusercontent.com/file-HmRMVmDdnQMDhSeyYU4MaA?se=2025-01-19T22%3A14%3A37Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dd06f932d-b6ac-401b-a02b-2b8eaffc23c6.webp&sig=8sDX2gAvSJ5F2/bl9kvdMdH8bj/8AojVebO0DESqE9c%3D" width="50"></h2>
+<h2> Hi, I'm Seth Pederson! </h2>
 
 <img align='right' src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="230">
 
