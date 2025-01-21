@@ -23,7 +23,6 @@ const seth = {
   ],
   experience: [
     "chessJava: Java chess game project",
-    "unrealGalaga: Top-down 2.5D re-creation of Galaga in UE5 (in progress)"
   ],
   challenge: "Software Engineering"
 }
