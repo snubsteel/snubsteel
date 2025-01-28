@@ -23,6 +23,7 @@ const seth = {
   ],
   experience: [
     "chessJava: Java chess game project",
+    "Algorithm Implementations: Popular algorithms created in Java",
   ],
   challenge: "Software Engineering"
 }
