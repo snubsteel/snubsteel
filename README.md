@@ -14,12 +14,12 @@
 ```javascript
 const Seth = {
   location: "Fargo, ND",
-  code: [C++, C#, Java, Python, HTML, CSS, JavaScript, SQL],
-  tools: [Unreal Engine, Unity, VS Code, Git],
+  code: [C++, C#, C, Java],
+  tools: [Unreal Engine, VSCode, Git],
   interests: [
-    "game development",
-    "cybersecurity",
-    "3d design"
+    "Game Development",
+    "Cybersecurity",
+    "3D Design"
   ],
   experience: [
     "chessJava: Chess recreated using Java",
