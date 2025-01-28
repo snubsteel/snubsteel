@@ -12,7 +12,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const seth = {
+const Seth = {
   location: "Fargo, ND",
   code: [C++, C#, Java, Python, HTML, CSS, JavaScript, SQL],
   tools: [Unreal Engine, Unity, VS Code, Git],
@@ -22,8 +22,9 @@ const seth = {
     "3d design"
   ],
   experience: [
-    "chessJava: Java chess game project",
-    "Algorithm Implementations: Popular algorithms created in Java",
+    "chessJava: Chess recreated using Java",
+    "raylibGalaga(In Development): Galaga recreated using Raylib and C++",
+    "Algorithm Implementations: Popular algorithms recreated in Java",
   ],
   challenge: "Software Engineering"
 }
