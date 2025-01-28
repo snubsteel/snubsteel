@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="230">
 
-<p><em>Software Engineering Student at <a href="https://crk.umn.edu/academics/software-engineering/online">University of Minnesota</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+<p><em>Software Engineering Student @ <a href="https://crk.umn.edu/academics/software-engineering/online">University of Minnesota</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 </em></p>
 
 [![Email: sethjpederson@gmail.com](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:sethjpederson@gmail.com)
@@ -14,8 +14,9 @@
 ```javascript
 const Seth = {
   location: "Fargo, ND",
+  education(In Development): "B.S Software Engineering, Minor in ITM & Cybersecurity",
   code: [C++, C#, C, Java],
-  tools: [Unreal Engine, VSCode, Git],
+  tools: [Unreal Engine, VSCode, Git]
   interests: [
     "Game Development",
     "Cybersecurity",
@@ -24,7 +25,7 @@ const Seth = {
   experience: [
     "chessJava: Chess recreated using Java",
     "raylibGalaga(In Development): Galaga recreated using Raylib and C++",
-    "Algorithm Implementations: Popular algorithms recreated in Java",
+    "taskSchedulingAlgorithms: Popular task scheduling algorithms recreated in Java"
   ],
   challenge: "Software Engineering"
 }
