@@ -15,11 +15,12 @@
 const Seth = {
   location: "Fargo, ND",
   education(In Development): "B.S Software Engineering, Minor in ITM & Cybersecurity",
-  code: [C++, C#, C, Java],
+  code: [C++, C#, C, Java, Python, HTML, CSS, Javascript, SQL],
   tools: [Unreal Engine, VSCode, Git]
   interests: [
     "Game Development",
     "Cybersecurity",
+    "AI & Machine Learning",
     "3D Design"
   ],
   experience: [
