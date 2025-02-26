@@ -14,6 +14,6 @@
 ![Seth's Developer Profile](assets/sethCarbon.png)
 
 ![Seth's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snubsteel&layout=compact&langs_count=8&theme=dark)
-![Seth's GitHub Statistics](https://raw.githubusercontent.com/snubsteel/snubsteel/main/assets/seth-githubstats.svg)
+![Seth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snubsteel&show_icons=true&count_private=true&theme=dark)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy connecting with people</b>. Feel free to reach out and say <b>hi!</b></em>
