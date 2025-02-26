@@ -11,27 +11,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```json
-const Seth = {
-  location: "Fargo, ND",
-  education (In Development): "B.S Software Engineering, Minor in ITM & Cybersecurity",
-  code: [C++, C#, C, Java, Python, HTML, CSS, Javascript, SQL],
-  tools: [Unreal Engine, VSCode, Git],
-  interests: [
-    "Game Development",
-    "Cybersecurity",
-    "AI & Machine Learning",
-    "3D Design"
-    "Web Applications"
-  ],
-  experience: [
-    "chessJava: Chess recreated using Java",
-    "raylibGalaga(In Development): Galaga recreated using Raylib and C++",
-    "taskSchedulingAlgorithms: Popular task scheduling algorithms recreated in Java"
-    "eCommerce Website: Created a basic eCommerce website using HTML, CSS, and Javascript"
-  ],
-  challenge: "Software Engineering"
-}
-```
+![Seth's Developer Profile](https://raw.githubusercontent.com/snubsteel/snubsteel/main/sethCarbon.png)
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy connecting with people</b>. Feel free to reach out and say <b>hi!</b></em>
