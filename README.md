@@ -22,11 +22,13 @@ const Seth = {
     "Cybersecurity",
     "AI & Machine Learning",
     "3D Design"
+    "Web Applications"
   ],
   experience: [
     "chessJava: Chess recreated using Java",
     "raylibGalaga(In Development): Galaga recreated using Raylib and C++",
     "taskSchedulingAlgorithms: Popular task scheduling algorithms recreated in Java"
+    "eCommerce Website: Created a basic eCommerce website using HTML, CSS, and Javascript"
   ],
   challenge: "Software Engineering"
 }
