@@ -11,12 +11,12 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```cpp
+```javascript
 const Seth = {
-  String location = "Fargo, ND",
+  location: "Fargo, ND",
   education (In Development): "B.S Software Engineering, Minor in ITM & Cybersecurity",
   code: [C++, C#, C, Java, Python, HTML, CSS, Javascript, SQL],
-  tools: [Unreal Engine, VSCode, Git]
+  tools: [Unreal Engine, VSCode, Git],
   interests: [
     "Game Development",
     "Cybersecurity",
