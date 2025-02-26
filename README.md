@@ -13,8 +13,8 @@
 
 ```cpp
 const Seth = {
-  String location: "Fargo, ND",
-  education(In Development): "B.S Software Engineering, Minor in ITM & Cybersecurity",
+  String location = "Fargo, ND",
+  education (In Development): "B.S Software Engineering, Minor in ITM & Cybersecurity",
   code: [C++, C#, C, Java, Python, HTML, CSS, Javascript, SQL],
   tools: [Unreal Engine, VSCode, Git]
   interests: [
