@@ -13,6 +13,6 @@
 
 ![Seth's Developer Profile](assets/sethCarbon.png)
 
-![Seth's Programming Languages](https://raw.githubusercontent.com/snubsteel/ghProfile/main/assets/seth-languages.svg](https://github.com/snubsteel/snubsteel/blob/main/assets/seth-languages.svg)
+![Seth's Programming Languages](https://raw.githubusercontent.com/snubsteel/snubsteel/main/assets/seth-languages.svg)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy connecting with people</b>. Feel free to reach out and say <b>hi!</b></em>
