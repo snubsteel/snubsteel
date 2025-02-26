@@ -9,9 +9,8 @@
 [![Discord: snubsteel](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/snubsteel)
 [![GitHub snubsteel](https://img.shields.io/github/followers/snubsteel?label=follow&style=social)](https://github.com/snubsteel)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-![Seth's Developer Profile](https://raw.githubusercontent.com/snubsteel/snubsteel/main/sethCarbon.png)
-
+![Seth's Developer Profile](assets/sethCarbon.png)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy connecting with people</b>. Feel free to reach out and say <b>hi!</b></em>
