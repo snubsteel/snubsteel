@@ -11,7 +11,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-![Seth's Developer Profile](assets/sethCarbon4.png)
+![Seth's Developer Profile](assets/sethCarbon5.png)
 
 ![Seth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snubsteel&show_icons=true&count_private=true&theme=dark)
 ![Seth's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snubsteel&layout=compact&langs_count=8&theme=dark)
